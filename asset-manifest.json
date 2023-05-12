@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SHOOCRU_TEST/static/css/main.8062fcf1.css",
+    "main.js": "/SHOOCRU_TEST/static/js/main.5b254b65.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SHOOCRU_TEST/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/SHOOCRU_TEST/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SHOOCRU_TEST/index.html",
+    "static/media/login.svg": "/SHOOCRU_TEST/static/media/login.cf4a532f0b6301adbd10.svg",
+    "static/media/password.svg": "/SHOOCRU_TEST/static/media/password.7e8565e145d56bcbb14a.svg",
+    "main.8062fcf1.css.map": "/SHOOCRU_TEST/static/css/main.8062fcf1.css.map",
+    "main.5b254b65.js.map": "/SHOOCRU_TEST/static/js/main.5b254b65.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SHOOCRU_TEST/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8062fcf1.css",
+    "static/js/main.5b254b65.js"
+  ]
+}
