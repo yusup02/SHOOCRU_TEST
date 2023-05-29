@@ -51,7 +51,7 @@ const response = await fetch("https://fp-services.ru/installment/users/login", {
         localStorage.setItem('userName', data.Data.Name); // сохраняет локально переданное знаение
         localStorage.setItem('token', data.Data.Token);
         console.log(data)
-        navigate('https://yusup02.github.io/SHOOCRU_TEST//main', { replace: true });
+        navigate('/main', { replace: true });
       } else {
         // Обрабатываем ошибку авторизации
         const errorData = await response.json();

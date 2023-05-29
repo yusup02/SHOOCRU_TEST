@@ -65,7 +65,7 @@ function MainPage() {
 
     function handleClick(event) {
         localStorage.clear();
-        navigate('https://yusup02.github.io/SHOOCRU_TEST/');
+        navigate('/');
         console.log('Токен после удаления:', localStorage.getItem('token'));
     }
 
@@ -80,7 +80,7 @@ function MainPage() {
 
 
     function handleClick(event) {
-        navigate('https://yusup02.github.io/SHOOCRU_TEST/');
+        navigate('/');
     }
 
     // function handleClickCurseDetails(courseUID) {

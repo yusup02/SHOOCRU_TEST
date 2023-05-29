@@ -10,9 +10,9 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="https://yusup02.github.io/SHOOCRU_TEST/" element={<Login />} />
-        <Route path="https://yusup02.github.io/SHOOCRU_TEST/main" element={<Main />} />
-        <Route path="https://yusup02.github.io/SHOOCRU_TEST/сurseDetails/:courseUID" element={<CurseDetails />} />
+        <Route path="/" element={<Login />} />
+        <Route path="/main" element={<Main />} />
+        <Route path="/сurseDetails/:courseUID" element={<CurseDetails />} />
         {/* <Route path="/create" element={<Create />} /> */}
       </Routes>
     </div>
